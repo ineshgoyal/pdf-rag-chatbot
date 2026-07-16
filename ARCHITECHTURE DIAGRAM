@@ -1,0 +1,28 @@
+User
+   │
+   ▼
+Streamlit UI
+   │
+   ▼
+PDF Upload
+   │
+   ▼
+PyPDF2
+   │
+   ▼
+Chunking
+   │
+   ▼
+Gemini Embeddings
+   │
+   ▼
+FAISS
+   │
+   ▼
+Similarity Search
+   │
+   ▼
+Gemini 2.5 Flash
+   │
+   ▼
+Answer
